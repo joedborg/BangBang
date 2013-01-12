@@ -1,0 +1,46 @@
+; File generated automatically from ./dlls/wtsapi32/wtsapi32.spec; do not edit!
+
+LIBRARY wtsapi32.dll
+
+EXPORTS
+  WTSCloseServer@4 @1
+  WTSConnectSessionA@16 @2
+  WTSConnectSessionW@16 @3
+  WTSDisconnectSession@12 @4
+  WTSEnumerateProcessesA@20 @5
+  WTSEnumerateProcessesW@20 @6
+  WTSEnumerateServersA@20 @7
+  WTSEnumerateServersW@20 @8
+  WTSEnumerateSessionsA@20 @9
+  WTSEnumerateSessionsW@20 @10
+  WTSFreeMemory@4 @11
+  WTSLogoffSession@12 @12
+  WTSOpenServerA@4 @13
+  WTSOpenServerW@4 @14
+  WTSQuerySessionInformationA@20 @15
+  WTSQuerySessionInformationW@20 @16
+  WTSQueryUserConfigA@20 @17
+  WTSQueryUserConfigW@20 @18
+  WTSQueryUserToken@8 @19
+  WTSRegisterSessionNotification@8 @20
+  WTSRegisterSessionNotificationEx@12 @21
+  WTSSendMessageA@40 @22
+  WTSSendMessageW@40 @23
+  WTSSetUserConfigA@20 @26
+  WTSSetUserConfigW@20 @27
+  WTSShutdownSystem@8 @28
+  WTSStartRemoteControlSessionA@16 @29
+  WTSStartRemoteControlSessionW@16 @30
+  WTSStopRemoteControlSession@4 @31
+  WTSTerminateProcess@12 @32
+  WTSUnRegisterSessionNotification@4 @33
+  WTSUnRegisterSessionNotificationEx@8 @34
+  WTSVirtualChannelClose@4 @35
+  WTSVirtualChannelOpen@12 @36
+  WTSVirtualChannelOpenEx@12 @37
+  WTSVirtualChannelPurgeInput@4 @38
+  WTSVirtualChannelPurgeOutput@4 @39
+  WTSVirtualChannelQuery@16 @40
+  WTSVirtualChannelRead@20 @41
+  WTSVirtualChannelWrite@16 @42
+  WTSWaitSystemEvent@12 @43

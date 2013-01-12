@@ -1,0 +1,48 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\.Default
+
+#arch=win32
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1358017522
+"AppData"="C:\\users\\joe\\Application Data"
+"Cache"="C:\\users\\joe\\Local Settings\\Temporary Internet Files"
+"Cookies"="C:\\users\\joe\\Cookies"
+"Desktop"="C:\\users\\joe\\Desktop"
+"Favorites"="C:\\users\\joe\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\joe\\Local Settings\\History"
+"Local AppData"="C:\\users\\joe\\Local Settings\\Application Data"
+"My Music"="C:\\users\\joe\\My Music"
+"My Pictures"="C:\\users\\joe\\My Pictures"
+"My Videos"="C:\\users\\joe\\My Videos"
+"NetHood"="C:\\users\\joe\\NetHood"
+"Personal"="C:\\users\\joe\\My Documents"
+"PrintHood"="C:\\users\\joe\\PrintHood"
+"Programs"="C:\\users\\joe\\Start Menu\\Programs"
+"Recent"="C:\\users\\joe\\Recent"
+"SendTo"="C:\\users\\joe\\SendTo"
+"Start Menu"="C:\\users\\joe\\Start Menu"
+"StartUp"="C:\\users\\joe\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\joe\\Templates"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1358017522
+"AppData"=str(2):"%USERPROFILE%\\Application Data"
+"Cache"=str(2):"%USERPROFILE%\\Local Settings\\Temporary Internet Files"
+"Cookies"=str(2):"%USERPROFILE%\\Cookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\Local Settings\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\Local Settings\\Application Data"
+"My Music"=str(2):"%USERPROFILE%\\My Music"
+"My Pictures"=str(2):"%USERPROFILE%\\My Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\My Videos"
+"NetHood"=str(2):"%USERPROFILE%\\NetHood"
+"Personal"=str(2):"%USERPROFILE%\\My Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\PrintHood"
+"Programs"=str(2):"%USERPROFILE%\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\Templates"
